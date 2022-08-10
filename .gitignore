@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# API keys and secrets
+.env
+
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Ignore built ts files
+dist/**/*

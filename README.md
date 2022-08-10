@@ -1,1 +1,1 @@
-# typescripct-project
+# typescript-project

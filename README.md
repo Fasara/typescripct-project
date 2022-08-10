@@ -1,3 +1,3 @@
-# Typescripct-project 
+# Typescript-project 
 
-
+![Typescript](ts.png)

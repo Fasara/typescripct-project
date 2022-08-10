@@ -3,7 +3,7 @@
     /* Visit https://aka.ms/tsconfig to read more about this file */
     /* Language and Environment */
     "target": "es5", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    /* Type check */
+    /* Type check*/
     "strict": true, /* Enable all strict type-checking options. */
     /* Modules */
     "module": "commonjs", /* Specify what module code is generated. */
